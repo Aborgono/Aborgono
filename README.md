@@ -1,4 +1,4 @@
-👋 Hi, I'm Alberto Borgono.
+👋 Hi, I'm Alberto Borgonovo.
 I'm interested in technology, software engineering, finance, and solving complex problems.
 I'm currently learning developing my front and back end skills and frameworks to enhance my skills in software development.
 I'm looking to collaborate on innovative software projects that tackle real-world challenges and push the boundaries of what's possible.
